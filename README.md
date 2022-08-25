@@ -1,4 +1,4 @@
-## WALMART
+## WALMART Sales Forecasting
 #### To build a model which predict sales of the stores and calculate revenue to decide whether to make an investment or not by means of linear regression.
 
 
